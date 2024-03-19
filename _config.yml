@@ -1,8 +1,8 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
+title: Decoding Gender in Fictional Character Development
+tag_text: Decoding Gender in Fictional Character Development
 description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-url: "https://adueck.github.io" # base URL for your site ie. "https://www.example.com"
+url: "https://decoding-gender.github.io" # base URL for your site ie. "https://www.example.com"
 baseurl: "/good-clean-read" # subpath for base of site, leave blank if hosting at root
 
 font-awesome-include: true # make this false if you don't need font-awesome
