@@ -13,6 +13,7 @@ layout: default
   <i class="fa-brands fa-github-square"></i>
   <!-- uses brand style -->
 </body>
+
 ## Comprehensive Analysis of Character-Agency through Computer-based Tools
 
 ### Abstract
