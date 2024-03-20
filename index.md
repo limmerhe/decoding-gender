@@ -1,7 +1,18 @@
 ---
 layout: default
 ---
-
+<head>
+  <!-- our project just needs Font Awesome Solid + Brands -->
+  <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet" />
+  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet" />
+  <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet" />
+</head>
+<body>
+  <i class="fa-solid fa-user"></i>
+  <!-- uses solid style -->
+  <i class="fa-brands fa-github-square"></i>
+  <!-- uses brand style -->
+</body>
 ## Comprehensive Analysis of Character-Agency through Computer-based Tools
 
 ### Abstract
@@ -54,6 +65,7 @@ Just remember to customize the buttons to fit your url in the `_includes/sharing
 If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
 
 <i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
+
 
 ### Add images to make your point
 
