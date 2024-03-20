@@ -9,6 +9,14 @@ layout: default
 Literature shapes cultural norms and heritage through language. Recent studies focus on agency and gender in text analysis, with computerized methods like NLP offering efficient insights. Language reflects and reinforces gender stereotypes and power dynamics, but can also be a tool for resistance and subversion. Research shows how linguistic features contribute to maintaining gender-based inequalities. The combination of agency and gender analysis using computerized tools remains relatively unexplored. The thesis aims to investigate the correlation between fictional character agency, gender, and author gender, using the Gutenberg Corpus as research data. By utilizing the tools LIWC, Lingualyzer and BookNLP this research study intents to highlight the difficulties and challenges but also the advatages of using computationalized tools to analyze social concepts like agency. 
 
 ### Content
+<ul class="fa-ul">
+  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Data</li>
+  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Results</li>
+  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>References</li>
+  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Resources</li>
+  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Contact</li>
+</ul>
+### Footnotes
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
 
@@ -36,6 +44,7 @@ Just remember to customize the buttons to fit your url in the `_includes/sharing
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
 
 <ul class="fa-ul">
+  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>bgkjbf</li>
   <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
   <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
   <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
