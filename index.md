@@ -10,8 +10,10 @@ layout: default
 Literature shapes cultural norms and heritage through language. Recent studies focus on gender in text analysis, with computerized methods like NLP offering efficient insights (xxx). Language reflects and reinforces gender stereotypes and power dynamics, but can also be a tool for resistance and subversion. Research shows how linguistic features contribute to maintaining gender-based inequalities. The combination of agency and gender analysis using computerized tools remains relatively unexplored. The thesis aims to investigate the correlation between fictional character agency, gender, and author gender, using the Gutenberg Corpus as research data. By utilizing the tools LIWC, Lingualyzer and BookNLP this research study intents to highlight the difficulties and challenges but also the advatages of using computationalized tools to analyze social concepts like agency. 
 
 ### Content
+
+<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>
+
 <ul class="fa-ul">
-<i class="fa-solid fa-arrow-right"></i>
   <li><i class="fa-solid fa-arrow-right"></i>Data</li>
   <li><i class="fa-solid fa-arrow-right"></i>Results</li>
   <li><i class="fa-solid fa-arrow-right"></i>References</li>
