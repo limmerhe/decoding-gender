@@ -10,11 +10,12 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 
 ### Content
 <ul class="fa-ul">
-  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Data</li>
-  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Results</li>
-  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>References</li>
-  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Resources</li>
-  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>Contact</li>
+<i class="fa-solid fa-arrow-right"></i>
+  <li><i class="fa-solid fa-arrow-right"></i>Data</li>
+  <li><i class="fa-solid fa-arrow-right"></i>Results</li>
+  <li><i class="fa-solid fa-arrow-right"></i>References</li>
+  <li><i class="fa-solid fa-arrow-right"></i></i>Resources</li>
+  <li><i class="fa-solid fa-arrow-right"></i></i>Contact</li>
 </ul>
 ### Footnotes
 
@@ -44,7 +45,7 @@ Just remember to customize the buttons to fit your url in the `_includes/sharing
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
 
 <ul class="fa-ul">
-  <li><i class="fa-sharp fa-thin fa-arrow-right"></i>bgkjbf</li>
+  <li><i class="fa-solid fa-arrow-right"></i>bgkjbf</li>
   <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
   <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
   <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
