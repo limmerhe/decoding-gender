@@ -11,14 +11,12 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 
 ### Content
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>
-
 <ul class="fa-ul">
-  <li><i class="fa-solid fa-arrow-right"></i>Data</li>
-  <li><i class="fa-solid fa-arrow-right"></i>Results</li>
-  <li><i class="fa-solid fa-arrow-right"></i>References</li>
-  <li><i class="fa-solid fa-arrow-right"></i></i>Resources</li>
-  <li><i class="fa-solid fa-arrow-right"></i></i>Contact</li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Data</li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Results</li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i>References</li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i></i>Resources</li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i></i>Contact</li>
 </ul>
 
 ### Data
