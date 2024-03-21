@@ -66,7 +66,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Resources
 
-Link to Paper, Poster, LIWC, Lingualyzer und BookNLP
+<li>[Project Repository, containing the full Thesis and Poster] (https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development)</li>  
+<li>[LIWC] (https://www.liwc.app/)</li> 
+<li>[Lingualyzer] (https://lingualyzer.com)</li> 
+<li>[BookNLP] (https://github.com/booknlp/booknlp)</li>
 
 <hr>
 
