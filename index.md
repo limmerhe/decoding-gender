@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-## Comprehensive Analysis of Character-Agency through Computer-based Tools
+### Comprehensive Analysis of Character-Agency through Computer-based Tools
 
-### Abstract
+## Abstract
 
 <i class="fa fa-quote-left fa-2x fa-pull-left fa-border"></i>We tell stories to teach cultural norms, to entertain, and
 to help create shared perspectives (Boyd et al. 1)<i class="fa fa-quote-right fa-2x fa-pull-right fa-border"></i>
@@ -15,7 +15,7 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 
 <hr>
 
-### Content
+## Content
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Data and Results</li>
@@ -48,7 +48,7 @@ In the BookNLP data, it was observed that, on average, there are more male chara
 
 <hr>
 
-### Challenges and Biases
+## Challenges and Biases
 
 There is no denying the huge benefit of using various computational tools, especial-ly in language and text analysis. The existing methods for person entity recognition and linking in literary texts are often inadequate due to the complex and ambiguous nature of character names and descriptions in narratives. Therefore many researchers search for new approaches that combine older techniques with machine learning algo-rithms specifically trained on literary data (Lajewska and Wróblewska 8–9). Over the last decade, numerous studies have been conducted to explore efficient meth-ods for detecting characters in literary texts and analyzing them, particularly when utilizing a quantitative approach. These studies aim to identify innovative techniques for character detection and analysis that can help with tasks such as sentiment analysis, character relationship mapping, and plot analysis. As the digital age continues to trans-form the way we read and analyze texts, it is crucial to develop more effective tools and techniques that can improve our understanding of literary works (Vala et al. 769).  
 Many research studies in the field of natural language processing and artificial intelli-gence focus on developing machine learning algorithms that can effectively process and analyze textual data. These algorithms require a large amount of annotated text data to train on and learn from. This process involves manually labeling a sample of text examples with relevant tags or labels that can help the algorithm identify patterns and make accurate predictions. The quality and quantity of the annotated data are cru-cial factors that can impact the performance and effectiveness of the machine learning algorithm. Therefore, researchers often invest a significant amount of time and effort in creating high-quality annotated datasets to improve the accuracy and reliability of their models (Soni et al. 8–9). But these algorithms and tools are also less than perfect. Human language is a complex construct that is not easy to analyze. While tools like genderize.io are useful for infer-ring gender from first names, their accuracy can be improved by incorporating addi-tional factors or methodologies into the analysis (Sebo, “Using genderize.io to infer the gender of first names: how to improve the accuracy of the inference” 610–11). Conse-quently, the responsibility of ensuring the credibility of the tool still lies on the re-searcher's shoulders. However, this approach can potentially introduce human biases into the process. Paul Sebo’s research article which focuses on evaluating the accuracy and reliability of various name-to-gender inference services begins discussing the limitations and chal-lenges associated with using names as a proxy for gender identification. In today's digi-tal age, gender detection tools are frequently used in various applications such as social media analysis, demographic research, and marketing strategies. However, the effec-tiveness of these tools in accurately determining an individual's gender based solely on their name remains a topic of debate. While certain names may be traditionally associ-ated with a specific gender (e.g., "John" for males), there are many names that are uni-sex or culturally diverse, making it difficult for name-to-gender inference services to accurately assign a gender. This ambiguity can lead to misgendering individuals and perpetuate harmful stereotypes. Sebo emphasizes the importance of critically evaluat-ing the performance of gender detection tools and recognizing their limitations in ac-curately representing gender diversity. The study calls for greater transparency and accountability in the development and implementation of these tools, as well as the need for ongoing research and refinement to improve their accuracy and inclusivity (Sebo, “Performance of gender detection tools: a comparative study of name-to-gender inference services” 419–20). 
@@ -56,7 +56,7 @@ To make an example relating to this thesis, the name Grizel was tagged as male b
 
 <hr>
 
-### References
+## References
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
 
@@ -70,9 +70,9 @@ Link to Paper, Poster, LIWC, Lingualyzer und BookNLP
 
 <hr>
 
-### Contact
+## Contact
 
-# Lisa Immerheiser (she/her)
+### Lisa Immerheiser (she/her)
 
 {% include sharing.html %}
 
