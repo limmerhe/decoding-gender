@@ -64,7 +64,7 @@ Back up your stuff with solid, clean citations. Footnotes can be written in mark
 <hr>
 
 #### Resources
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x"></i>&nbsp;&nbsp;<i class="fa-solid fa-scroll"></i>
+<i class="fa fa-solid fa-scroll"></i>
 
 [Project Repository](https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development)\
 [LIWC](https://www.liwc.app/)\
