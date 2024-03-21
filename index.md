@@ -72,13 +72,11 @@ Link to Paper, Poster, LIWC, Lingualyzer und BookNLP
 
 ### Contact
 
-Customize for Git-repository & Email
+Lisa Immerheiser (she/her)
 
 {% include sharing.html %}
 
-Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
-
-Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
+This website was created  as part of a master thesis at the Johannes Gutenberg-Universität Mainz within the degree program Digital Humanities (Digitale Methodik in den Geistes- und Kulturwissenschaften)
 
 
 ### Extra
