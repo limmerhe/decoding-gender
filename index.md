@@ -8,7 +8,6 @@ layout: default
 ### Abstract
 
 <i class="fa fa-quote-left fa-2x fa-pull-left fa-border"></i>We tell stories to teach cultural norms,
-
  to entertain, and to help create shared perspectives (Boyd et al. 1)
 <i class="fa fa-quote-right fa-2x fa-pull-right fa-border"></i>
  \
