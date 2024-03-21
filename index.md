@@ -18,7 +18,7 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 ### Content
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-solid fa-arrow-right"></i>[Data and Results](#data-and-results)</li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i><a href="#Data and Results">jump link</a></li>
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Challenges and Biases</li>
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>References</li>
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Resources</li>
@@ -27,7 +27,8 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 
 <hr>
 
-#### Data and Results
+#### Data and Results <div id="#Data and Results"></div>
+
 
 This thesis used a small subset of the Gutenberg Project corpus, excluding non-fiction, poetry, drama, and other texts to focus on novels and short stories. This decision was based on meta-data and previous research by Nagaraj (XXX). Excluding other genres was important to avoid biased or inconclusive results. Random samples were taken to verify the subset's adherence to the criteria, ensuring the study's reliability and validity. The limited resources for the thesis necessitated a focused approach, eliminating time-consuming detailed examinations of all authors' texts and genres. This method was chosen to ensure a representative and unbiased sample for the study.
 The Linguistic Inquiry and Word Count (LIWC) software, created by James W. Pennebaker, is widely used in psychology, sociology, and communication studies to analyze written texts quantitatively. While valuable, it has limitations such as predetermined categories and a focus on textual content rather than context or significance. Some features include a narrative arc analysis tool and the ability to process lagre amounts of texts with no prior programmin knowledge. Overall, LIWC can provide valuable insights into language usage and its effects on behavior, but should be used carefully to ensure accurate and reliable results.
