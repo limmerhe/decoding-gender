@@ -66,10 +66,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Resources
 
+<i class="fa-solid fa-scroll"></i>
+
 [Project Repository](https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development)\
 [LIWC](https://www.liwc.app/)\
 [Lingualyzer](https://lingualyzer.com)\
-[BookNLP](https://github.com/booknlp/booknlp)\
+[BookNLP](https://github.com/booknlp/booknlp)
 
 <hr>
 
@@ -84,7 +86,7 @@ This website was created  as part of a master thesis at the Johannes Gutenberg-U
 
 ### Extra
 
- Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
+ Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io)
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-spinner fa-spin"></i>Data</li>
@@ -95,14 +97,12 @@ This website was created  as part of a master thesis at the Johannes Gutenberg-U
 
 If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
 
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
-
 
 ### Extra
 
 Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
 
-<!-- img src="images/GraphNarrativeArcsFemaleHighAgency.png" alt="sample image" -->
+<img src="images/GraphNarrativeArcsFemaleHighAgency.png" alt="sample image">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
