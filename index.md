@@ -66,10 +66,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Resources
 
-[Project Repository](https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development) 
-[LIWC](https://www.liwc.app/) 
-[Lingualyzer](https://lingualyzer.com)
-[BookNLP](https://github.com/booknlp/booknlp)
+[Project Repository](https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development)\
+[LIWC](https://www.liwc.app/)\
+[Lingualyzer](https://lingualyzer.com)\
+[BookNLP](https://github.com/booknlp/booknlp)\
 
 <hr>
 
