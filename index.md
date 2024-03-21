@@ -60,13 +60,11 @@ To make an example relating to this thesis, the name Grizel was tagged as male b
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <hr>
 
 #### Resources
-
-<i class="fa-solid fa-scroll"></i>
+<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x"></i>&nbsp;&nbsp;<i class="fa-solid fa-scroll"></i>
 
 [Project Repository](https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development)\
 [LIWC](https://www.liwc.app/)\
