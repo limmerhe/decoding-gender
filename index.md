@@ -72,7 +72,7 @@ Link to Paper, Poster, LIWC, Lingualyzer und BookNLP
 
 ### Contact
 
-Lisa Immerheiser (she/her)
+# Lisa Immerheiser (she/her)
 
 {% include sharing.html %}
 
