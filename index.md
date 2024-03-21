@@ -65,7 +65,7 @@ Back up your stuff with solid, clean citations. Footnotes can be written in mark
 
 #### Resources
 
-<i class="fa-li fa-solid fa-scroll fa-3x fa-pull-left"></i>
+<i class="fa fa-scroll fa-3x fa-pull-left"></i>
 
 [Project Repository](https://gitlab.rlp.net/limmerhe/decoding-gender-in-fictional-character-development)\
 [LIWC](https://www.liwc.app/)\
