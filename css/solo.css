@@ -266,4 +266,29 @@ pre > code {
 .sharing-buttons {
 	width: 100%;
 }
+
+/* Back to top */
+
+.back-to-top {
+    position:fixed;
+    bottom: 2rem;
+    right: 2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    text-decoration: none;
+    transition: 0.2 ease-out;
 }
+
+.back-to-top span {
+
+    color: #fff;
+    font-size: 3rem;
+    transition: 0.2s ease-out;
+
+}
+
+
