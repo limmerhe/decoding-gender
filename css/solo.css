@@ -279,8 +279,8 @@ html {
   bottom: 2rem;
   right: 2rem;
   display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  align-items:flex-end;
+  justify-content:flex-end;
   background-color: aquamarine;
   border-radius: 0.5rem;
   padding: 0.5rem;
