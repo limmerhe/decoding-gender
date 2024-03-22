@@ -8,7 +8,7 @@ layout: default
 ### Abstract
 
 ><i class="fa fa-quote-left fa-2x fa-pull-left fa-border"></i>We tell stories to teach cultural norms,
->to entertain, and to help create shared perspectives (Boyd et al. 1)
+>to entertain, and to help create shared perspectives (Boyd et al. 1)"
 
 
 Literature shapes cultural norms and heritage through language. Recent studies focus on gender in text analysis, with computerized methods like NLP offering efficient insights (xxx). Language reflects and reinforces gender stereotypes and power dynamics, but can also be a tool for resistance and subversion. Research shows how linguistic features contribute to maintaining gender-based inequalities. The combination of agency and gender analysis using computerized tools remains relatively unexplored. The thesis aims to investigate the correlation between fictional character agency, gender, and author gender, using the Gutenberg Corpus as research data. By utilizing the tools LIWC, Lingualyzer and BookNLP this research study intents to highlight the difficulties and challenges but also the advatages of using computationalized tools to analyze social concepts like agency.
@@ -18,7 +18,7 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 ### Content
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-solid fa-arrow-right"></i><div id="#Data and Results"></div></li>
+  <li><i class="fa-li fa fa-solid fa-arrow-right"></i><a href="#data-and-results">Data and Results</a></li>
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Challenges and Biases</li>
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>References</li>
   <li><i class="fa-li fa fa-solid fa-arrow-right"></i>Resources</li>
@@ -27,7 +27,7 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 
 <hr>
 
-#### Data and Results<a href="#Data and Results">jump link</a>
+#### Data and Results
 
 
 This thesis used a small subset of the Gutenberg Project corpus, excluding non-fiction, poetry, drama, and other texts to focus on novels and short stories. This decision was based on meta-data and previous research by Nagaraj (XXX). Excluding other genres was important to avoid biased or inconclusive results. Random samples were taken to verify the subset's adherence to the criteria, ensuring the study's reliability and validity. The limited resources for the thesis necessitated a focused approach, eliminating time-consuming detailed examinations of all authors' texts and genres. This method was chosen to ensure a representative and unbiased sample for the study.
