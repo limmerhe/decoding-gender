@@ -413,7 +413,7 @@ html {
   
   
   .back-to-top {
-      position:fixed;
+      position:sticky;
       bottom: 2rem;
       right: 2rem;
       display: inline-flex;
