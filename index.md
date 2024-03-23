@@ -78,7 +78,7 @@ Further studies exploring the influence of gender and ethnicity on writing perfo
 
 ### References
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
+
 
 
 <hr>
@@ -105,4 +105,8 @@ Back up your stuff with solid, clean citations. Footnotes can be written in mark
 
 ### Footnotes
 
-[^1]: ref studies
+[^1]: Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
+
+Lucy, Li; Bamman, David (2021): Gender and Representation Bias in GPT-3 Generated Stories. In: Proceedings of the Third Workshop on Narrative Understanding. Stroudsburg, PA, USA. Stroudsburg, PA, USA: Association for Computational Linguistics.
+
+Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905. DOI: 10.1016/j.dib.2022.107905.
