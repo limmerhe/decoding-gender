@@ -78,15 +78,15 @@ Further studies exploring the influence of gender and ethnicity on writing perfo
 
 ### References
 
-Burdick, Hal; Swartz, Carl W.; Stenner, A. Jackson; Fitzgerald, Jill; Burdick, Don; Hanlon, Sean T. (2013): Measuring Students’ Writing Ability on a Computer-Analytic Developmental Scale: An Exploratory Validity Study. In: Literacy Research and Instruction 52 (4), S. 255–280. DOI: 10.1080/19388071.2013.812165.
+Burdick, Hal; Swartz, Carl W.; Stenner, A. Jackson; Fitzgerald, Jill; Burdick, Don; Hanlon, Sean T. (2013): Measuring Students’ Writing Ability on a Computer-Analytic Developmental Scale: An Exploratory Validity Study. In: Literacy Research and Instruction 52 (4), S. 255–280.
 
 Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
 
-Linders, Guido M.; Louwerse, Max M. (2023): Lingualyzer: A computational linguistic tool for multilingual and multidimensional text analysis. In: Behavior research methods. DOI: 10.3758/s13428-023-02284-1.
+Linders, Guido M.; Louwerse, Max M. (2023): Lingualyzer: A computational linguistic tool for multilingual and multidimensional text analysis. In: Behavior research methods.
 
-Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905. DOI: 10.1016/j.dib.2022.107905.
+Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905.
 
-Sebo, Paul (2021): Performance of gender detection tools: a comparative study of name-to-gender inference services. In: Journal of the Medical Library Association : JMLA 109 (3), S. 414–421. DOI: 10.5195/jmla.2021.1185.
+Sebo, Paul (2021): Performance of gender detection tools: a comparative study of name-to-gender inference services. In: Journal of the Medical Library Association : JMLA 109 (3), S. 414–421.
 
 Soni, Sandeep; Sihra, Amanpreet; Evans, Elizabeth F.; Wilkens, Matthew; Bamman, David (2023): Grounding Characters and Places in Narrative Texts. [Online verfügbar](http://arxiv.org/pdf/2305.17561v1)
 
@@ -115,10 +115,10 @@ Vala, Hardik; Jurgens, David; Piper, Andrew; Ruths, Derek: Mr. Bennet, his coach
 <b>This website was created  as part of a master thesis at the Johannes Gutenberg-Universität Mainz within the degree program Digital Humanities (Digitale Methodik in den Geistes- und Kulturwissenschaften)</b>
 
 
-### [^1]: Footnotes
+### [^1]:Footnotes
 
 Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
 
 Lucy, Li; Bamman, David (2021): Gender and Representation Bias in GPT-3 Generated Stories. In: Proceedings of the Third Workshop on Narrative Understanding. Stroudsburg, PA, USA. Stroudsburg, PA, USA: Association for Computational Linguistics.
 
-Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905. DOI: 10.1016/j.dib.2022.107905.
+Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905.
