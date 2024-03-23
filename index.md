@@ -104,7 +104,6 @@ Vala, Hardik; Jurgens, David; Piper, Andrew; Ruths, Derek: Mr. Bennet, his coach
 [Lingualyzer](https://lingualyzer.com)\
 [BookNLP](https://github.com/booknlp/booknlp)
 
-<hr>
 
 [^1]: Lucy, Li; Bamman, David (2021): Gender and Representation Bias in GPT-3 Generated Stories. In: Proceedings of the Third Workshop on Narrative Understanding. Stroudsburg, PA, USA. Stroudsburg, PA, USA: Association for Computational Linguistics.
 
