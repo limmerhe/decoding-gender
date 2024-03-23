@@ -266,38 +266,3 @@ pre > code {
 .sharing-buttons {
 	width: 100%;
 }
-
-/* Back to top */
-
-html {
-  scroll-behavior: smooth;
-}
-
-
-.back-to-top {
-  position: fixed;
-  bottom: 10px;
-  right: 10px;
-  display: inline-flex;
-  align-items:center;
-  justify-content:center;
-  background-color: aquamarine;
-  border-radius: 20px;
-  padding: 20px;
-  text-decoration: none;
-  transition: 0.2 ease-out;
-}
-
-.back-to-top span {
-  color: #fff;
-  font-size: 3rem;
-  transition: 0.2s ease-out;
-}
-
-.back-to-top:hover {
-  background-color: aqua; 
-}
-
-.back-to-top:hover span {
-  transform: translateY(-4px);
-}
