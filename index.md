@@ -33,7 +33,7 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 For this study, a small subset of the Gutenberg Project corpus was used, which excluded non-fiction, poetry, drama, and other genres. The focus was solely on novels and short stories. The decision to exclude other genres was based on meta-data and previous research by Nagaraj (2020) to avoid biased or inconclusive results. The subset's adherence to the criteria was verified through random samples, ensuring the study's reliability and validity. Due to limited resources, a focused approach was necessary, and detailed examinations of all authors' texts and genres were eliminated. This method was chosen to ensure a representative and unbiased sample for the study.
 
 
-<b>LIWC</b>
+#### LIWC
 
 The Linguistic Inquiry and Word Count (LIWC) software, developed by renowned researcher James W. Pennebaker, is a widely utilized tool in the fields of psychology, sociology, and communication studies for the quantitative analysis of written texts. While LIWC offers invaluable insights, it is important to acknowledge its limitations, such as the presence of predetermined categories and a primary focus on textual content rather than broader contextual or qualitative considerations. Noteworthy features of LIWC include a narrative arc analysis function and the ability to process large volumes of text without the need for prior programming expertise. In essence, LIWC serves as a powerful instrument for examining language usage patterns and their potential impact on human behavior; however, caution must be exercised in its application to ensure the accuracy and reliability of the results.
 <img src="images/FemaleHighAgencyNarrative Arc.JPG" alt="female high agency narrative arc">
@@ -95,35 +95,3 @@ Back up your stuff with solid, clean citations. Footnotes can be written in mark
 
 This website was created  as part of a master thesis at the Johannes Gutenberg-Universität Mainz within the degree program Digital Humanities (Digitale Methodik in den Geistes- und Kulturwissenschaften)
 
-
-### Extra
-
- Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io)
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>Data</li>
-  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
-  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
-</ul>
-
-If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
-
-
-### Extra
-
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="images/GraphNarrativeArcsFemaleHighAgency.png" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
-<hr>
-
-##### Extra:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
