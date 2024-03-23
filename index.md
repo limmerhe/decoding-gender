@@ -30,7 +30,7 @@ Literature shapes cultural norms and heritage through language. Recent studies f
 #### Data and Results
 
 
-For this study, a small subset of the Gutenberg Project corpus was used, which excluded non-fiction, poetry, drama, and other genres. The focus was solely on novels and short stories. The decision to exclude other genres was based on meta-data and previous research by Nagaraj (2020) to avoid biased or inconclusive results. The subset's adherence to the criteria was verified through random samples, ensuring the study's reliability and validity. Due to limited resources, a focused approach was necessary, and detailed examinations of all authors' texts and genres were eliminated. This method was chosen to ensure a representative and unbiased sample for the study.
+For this study, a small subset of the Gutenberg Project corpus was used, which excluded non-fiction, poetry, drama, and other genres. The focus was solely on novels and short stories. The decision to exclude other genres was based on meta-data and previous research by Nagaraj and Kejriwal (2020) to avoid biased or inconclusive results. The subset's adherence to the criteria was verified through random samples, ensuring the study's reliability and validity. Due to limited resources, a focused approach was necessary, and detailed examinations of all authors' texts and genres were eliminated. This method was chosen to ensure a representative and unbiased sample for the study.
 
 
 <b>LIWC</b>
@@ -78,7 +78,19 @@ Further studies exploring the influence of gender and ethnicity on writing perfo
 
 ### References
 
+Burdick, Hal; Swartz, Carl W.; Stenner, A. Jackson; Fitzgerald, Jill; Burdick, Don; Hanlon, Sean T. (2013): Measuring Students’ Writing Ability on a Computer-Analytic Developmental Scale: An Exploratory Validity Study. In: Literacy Research and Instruction 52 (4), S. 255–280. DOI: 10.1080/19388071.2013.812165.
 
+Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
+
+Linders, Guido M.; Louwerse, Max M. (2023): Lingualyzer: A computational linguistic tool for multilingual and multidimensional text analysis. In: Behavior research methods. DOI: 10.3758/s13428-023-02284-1.
+
+Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905. DOI: 10.1016/j.dib.2022.107905.
+
+Sebo, Paul (2021): Performance of gender detection tools: a comparative study of name-to-gender inference services. In: Journal of the Medical Library Association : JMLA 109 (3), S. 414–421. DOI: 10.5195/jmla.2021.1185.
+
+Soni, Sandeep; Sihra, Amanpreet; Evans, Elizabeth F.; Wilkens, Matthew; Bamman, David (2023): Grounding Characters and Places in Narrative Texts. [Online verfügbar](http://arxiv.org/pdf/2305.17561v1)
+
+Vala, Hardik; Jurgens, David; Piper, Andrew; Ruths, Derek: Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts. In: Lluís Màrquez, Chris Callison-Burch und Jian Su (Hg.): Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing. Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing. Lisbon, Portugal. Stroudsburg, PA, USA: Association for Computational Linguistics, S. 769–774.
 
 
 <hr>
@@ -103,9 +115,9 @@ Further studies exploring the influence of gender and ethnicity on writing perfo
 <b>This website was created  as part of a master thesis at the Johannes Gutenberg-Universität Mainz within the degree program Digital Humanities (Digitale Methodik in den Geistes- und Kulturwissenschaften)</b>
 
 
-### Footnotes
+### [^1]: Footnotes
 
-[^1]: Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
+Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
 
 Lucy, Li; Bamman, David (2021): Gender and Representation Bias in GPT-3 Generated Stories. In: Proceedings of the Third Workshop on Narrative Understanding. Stroudsburg, PA, USA. Stroudsburg, PA, USA: Association for Computational Linguistics.
 
