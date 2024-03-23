@@ -115,7 +115,7 @@ Vala, Hardik; Jurgens, David; Piper, Andrew; Ruths, Derek: Mr. Bennet, his coach
 <b>This website was created  as part of a master thesis at the Johannes Gutenberg-Universität Mainz within the degree program Digital Humanities (Digitale Methodik in den Geistes- und Kulturwissenschaften)</b>
 
 
-### [^1]:Footnotes
+[^1]: Footnotes 
 
 Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
 
