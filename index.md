@@ -106,6 +106,14 @@ Vala, Hardik; Jurgens, David; Piper, Andrew; Ruths, Derek: Mr. Bennet, his coach
 
 <hr>
 
+[^1]: Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
+
+Lucy, Li; Bamman, David (2021): Gender and Representation Bias in GPT-3 Generated Stories. In: Proceedings of the Third Workshop on Narrative Understanding. Stroudsburg, PA, USA. Stroudsburg, PA, USA: Association for Computational Linguistics.
+
+Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905.
+
+<hr>
+
 ### Contact
 
 #### Lisa Immerheiser (she/her)
@@ -113,12 +121,3 @@ Vala, Hardik; Jurgens, David; Piper, Andrew; Ruths, Derek: Mr. Bennet, his coach
 {% include sharing.html %}
 
 <b>This website was created  as part of a master thesis at the Johannes Gutenberg-Universität Mainz within the degree program Digital Humanities (Digitale Methodik in den Geistes- und Kulturwissenschaften)</b>
-
-
-[^1]: Footnotes 
-
-Lajewska, Weronika; Wróblewska, Anna (2021): Protagonists' Tagger in Literary Domain -- New Datasets and a Method for Person Entity Linkage.
-
-Lucy, Li; Bamman, David (2021): Gender and Representation Bias in GPT-3 Generated Stories. In: Proceedings of the Third Workshop on Narrative Understanding. Stroudsburg, PA, USA. Stroudsburg, PA, USA: Association for Computational Linguistics.
-
-Nagaraj, Akarsh; Kejriwal, Mayank (2022): Dataset for studying gender disparity in English literary texts. In: Data in brief 41, S. 107905.
