@@ -418,7 +418,7 @@ html {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #dc143c;
+	background-color:aquamarine;
 	border-radius: 0.5rem;
 	padding: 0.5rem;
 	text-decoration: none;
@@ -432,7 +432,7 @@ html {
 }
 
 .back-to-top:hover {
-	background-color: #be1a3b;
+	background-color: #1abeb9;
 }
 .back-to-top:hover span {
 	transform: translateY(-4px);
