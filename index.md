@@ -74,6 +74,8 @@ Emphasizing the inherent limitations of computational tools, an example involvin
 
 Further studies exploring the influence of gender and ethnicity on writing performance shed light on potential biases and societal expectations that may impact evaluative judgments. The research underscores the need for educators and evaluators to remain cognizant of these biases and strive for fair and impartial assessments of creative works, fostering a more inclusive and equitable evaluation process. Lastly, by leveraging computational tools to mitigate biases and enhance objectivity in evaluative processes, the author endeavors to ensure that assessments of creative works are robust, reliable, and reflective of true merit.
 
+For the full project overview including thesis and research poster please visit the repository<a href="#resources">linked below</a>
+
 <hr>
 
 ### References
